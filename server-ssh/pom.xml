@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.lazy.demo</groupId>
-    <artifactId>demo-ssh-vue</artifactId>
+    <artifactId>springvue</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>demo-ssh-vue</name>
+    <name>springvue</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
